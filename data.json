@@ -1,1 +1,16 @@
-
+[
+  {
+    "title": "Example Archive",
+   "image": "https://raw.githubusercontent.com/justxilo/archive/main/images/sample.jpg",
+    "downloadUrl": "https://archive.org/download/sample.zip",
+    "episodes": 12,
+    "description": "A sample archive entry."
+  },
+  {
+    "title": "Another Archive",
+    "image": "https://raw.githubusercontent.com/justxilo/archive/main/images/sample.jpg",
+    "downloadUrl": "https://archive.org/download/sample2.zip",
+    "episodes": 24,
+    "description": "Second entry example."
+  }
+]
