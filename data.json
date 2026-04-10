@@ -2,15 +2,14 @@
  {
   "title": "Code Geass: Lelouch of the Rebellion (R1)",
   "image": "https://raw.githubusercontent.com/justxilo/archive/main/images/Code_Geass_R1_box_set_cover.jpg",
-  "downloadUrl": "YOUR_LINK_HERE",
+  "downloadUrl": "LINK",
   "episodes": 25,
   "description": "Season 1 of Code Geass following Lelouch’s rise as Zero."
 },
-  {
-    "title": "Another Archive",
-    "image": "https://raw.githubusercontent.com/justxilo/archive/main/images/sample.jpg",
-    "downloadUrl": "https://archive.org/download/sample2.zip",
-    "episodes": 24,
-    "description": "Second entry example."
-  }
-]
+ {
+  "title": "Code Geass: Lelouch of the Rebellion (R2)",
+  "image": "https://raw.githubusercontent.com/justxilo/archive/main/images/Code_Geass_R1_box_set_cover.jpg",
+  "downloadUrl": "LINK",
+  "episodes": 25,
+  "description": "Season 1 of Code Geass following Lelouch’s rise as Zero."
+},
