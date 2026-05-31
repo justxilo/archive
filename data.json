@@ -277,5 +277,16 @@
 "rating": 7.3,
 "genres": ["Action"],
 "studio": "Toei Animation"
+  },
+   {
+    "title": "Monster",
+    "image": "https://raw.githubusercontent.com/justxilo/archive/main/images/monster.jpg",
+    "downloadUrl": "magnet:?xt=urn:btih:60ca4401430eaf834d32827020d3bd0539641ebc&dn=%5BBlackRabbit%5D%20Monster%20(2004)%20-%20S01%20%5BBluray-720p%5D%5BOpus%202.0%5D%5BDual%20Audio%5D%5BAV1%5D%20%7BTags%3AL2%3BV12%3BC3%3BA%3Dja%2Cen%3BF%3Den%3B%7D&tr=https%3A%2F%2Ftracker.nekobt.to%2Fapi%2Ftracker%2Fpublic%2Fannounce&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+    "episodes": 74 ,
+    "description": "A psychological thriller anime about Dr. Kenzo Tenma, a gifted neurosurgeon who saves the life of a young boy named Johan Liebert. Years later, Tenma discovers that Johan has become a dangerous serial killer, leading him on a journey across Europe to stop the monster he once saved.",
+    "year":2004,
+"rating":  8.7,
+"genres": ["Psychological", "Mystery", "Drama", "Thriller"],
+"studio": "Madhouse"
   }
 ]
