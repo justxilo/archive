@@ -322,4 +322,37 @@
   "genres": ["Drama"],
   "studio":"Nippon Animation"
 }
+{
+  "title": "Yatterman",
+  "image": "https://raw.githubusercontent.com/justxilo/archive/main/images/Yatterman.png",
+  "downloadUrl": "magnet:?xt=urn:btih:9d4264e8ad32cc72e5a6b92272e8d69d68bf422a&dn=Yatterman%20%282008%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+  "episodes": 60 ,
+  "description": "Remake of the Yatterman series.",
+  "year": 2008 ,
+  "rating": 6.5 ,
+  "genres": ["Adventure", "Comedy"],
+  "studio": "Tatsunoko Production"
+},
+{
+  "title": "Wellber no Monogatari: Sisters of Wellber",
+  "image": "https://raw.githubusercontent.com/justxilo/archive/main/images/Wellber%20no%20Monogatari%20Sisters%20of%20Wellber.jpg",
+  "downloadUrl": "magnet:?xt=urn:btih:35f8f00e2fb6ebc16b3cc7d9ac7987c68eed74a9&dn=Wellber%20no%20Monogatari%20-%20Sisters%20of%20Wellber&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+  "episodes": 13,
+  "description": "idk man just watch and find out 😭✌️",
+  "year": 2007,
+  "rating":6.7 ,
+  "genres": [ "Action", "Adventure", "Comedy"],
+  "studio": "Trans Arts"
+},
+{
+  "title": "Wellber no Monogatari: Sisters of Wellber Zwei",
+  "image": "https://raw.githubusercontent.com/justxilo/archive/main/images/Wellber%20no%20Monogatari%20Sisters%20of%20Wellber%20Zwei.jpg",
+  "downloadUrl": "magnet:?xt=urn:btih:50a7a0d2eff029a7df35f85db5a81c1563c88877&dn=Wellber%20no%20Monogatari%20-%20Sisters%20of%20Wellber%20Zwei&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+  "episodes": 13 ,
+  "description": "second season of Wellber no Monogatari: Sisters of Wellber ",
+  "year": 2008 ,
+  "rating": 6.8 ,
+  "genres": ["Adventure", "Fantasy", "Romance"],
+  "studio": "Trans Arts"
+},
 ]
