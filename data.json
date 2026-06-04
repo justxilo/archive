@@ -299,5 +299,27 @@
   "rating": 6.7,
   "genres": ["Action", "Drama", "Mystery"],
   "studio": "Anpro"
-}
+},
+  {
+  "title": "Hakaba Kitarou",
+  "image": "https://raw.githubusercontent.com/justxilo/archive/main/images/Hakaba%20Kitarou.jpg",
+  "downloadUrl": "magnet:?xt=urn:btih:6EFEXLDSJPGDJ3KLAXWUXA6GJ3JBX5D5&tr=http%3A%2F%2Fopen.nyaatorrents.info%3A6544%2Fannounce&dn=Hakaba%20Kitarou%20%5B738p%2C3.66GB%5D%20%282008%29",
+  "episodes": 11,
+  "description": "Add to List Hakaba Kitarou Kitarou is a youkai boy born in a cemetery, and aside from his mostly-decayed father, the last living member of the Ghost tribe. He is missing his left eye, but his hair usually covers the empty socket. He fights for peace between humans and youkai, which generally involves protecting the former from the wiles of the latter.",
+  "year":2008 ,
+  "rating": 6.9,
+  "genres": [" Horror", "Supernatural"],
+  "studio": "Toei Animation"
+},
+  {
+  "title": "Porphy no Nagai Tabi",
+  "image": "https://raw.githubusercontent.com/justxilo/archive/main/images/Porphy%20no%20Nagai%20Tabi.jpg",
+  "downloadUrl": "magnet:?xt=urn:btih:69fa147d65484dd251599daac0fd7522537194b2&dn=%5BLicca%5D%20Porphy%20no%20Nagai%20Tabi%2001-52%20%5B720p%5D%20%5Bh.264%5D%20%5BHi10P%5D%20%28The%20Orphans%20of%20Simitra%20%7C%20%20Porphy%27s%20Long%20Journey%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+  "episodes": 52,
+  "description": "Porfy, his younger sister Mina, and their parents live a humble but happy life in the Grecian countryside. They've just started running a gas station, much to Porphy's joy, and it seems like only good things are in store for their future. However, a huge earthquake changes all that, leaving Porfy without a home or a family -- sans Mina, who seems to have disappeared in the commotion. Now, Porfy is determined to find his sister and be able to live together happily again.",
+  "year": 2008,
+  "rating": 6.8,
+  "genres": ["Drama", "Historical"],
+  "studio":"Nippon Animation"
+},
 ]
